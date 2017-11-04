@@ -1,0 +1,120 @@
+
+.menu {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	background-image: url(../images/the-flatiron-building.png)
+}
+
+.menu h1 {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+.menu a {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+.process h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.process img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.identify h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.identify p {
+	font-family: Helvetica;
+	font-size: 14px;
+	text-align: center;
+}
+
+.identify img {
+    display: block;
+    margin: 0 auto;
+}
+
+.understand h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.understand p {
+	font-family: Helvetica;
+	font-size: 14px;
+	text-align: center;
+}
+
+.understand img {
+    display: block;
+    margin: 0 auto;
+}
+
+.execute h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.execute p {
+	font-family: Helvetica;
+	font-size: 14px;
+	text-align: center;
+}
+
+.newyork {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	background-image: url(../images/the-flatiron-building.png)
+}
+
+.info h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	text-align: center;
+}
+	
+.info p {
+	font-family: Helvetica;
+	font-size: 14px;
+	text-align: center;
+}
+
+.footer p {
+	font-family: Helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgrey;
+}
+
+.footer a {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	display: inline-block;
+}
